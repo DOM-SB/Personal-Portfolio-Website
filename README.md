@@ -19,7 +19,7 @@ The Skills Page provides an approximate measurement of my skills.
 This page provides the way to reach me either through social media like GitHub and internet or through a form which will collect the information of the person who wants to reach me.
 
 ## How to run the Personal Portfolio Website:
-Step 1: Go to the link "https://github.com/DOM-SB/Personal-Portfolio-Website" and download all the files including the directories to a local directory in your PC.https://github.com/DOM-SB/Personal-Portfolio-Website
+Step 1: Go to the link "https://github.com/DOM-SB/Personal-Portfolio-Website" and download all the files including the directories to a local directory in your PC.
 Step 2: Go to the local directory of the PC, where the files are downloaded.
 Step 3: Double-click or open the file named "index.html". This will open the home page of the Personal Portfolio Website.
 Step 4: Explore all the pages of the Personal Portfolio Website.
