@@ -1,0 +1,66 @@
+
+.flex-container1 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+}
+
+.flex-container1 div {
+  width: 68px;
+  border: 1px solid black;
+}
+
+.flex-container1 .table-outer-box {
+  border: none;
+  font-size:12px;
+  font-weight: bold;
+/*  background: turquoise; */
+}
+
+.flex-photo {
+  display: flex;
+  width: 300px;
+  margin-top: 2em;
+  margin-left: 6em;
+}
+
+.flex-projectImg {
+  display: flex;
+  width: 310px;
+  margin-top: 2em;
+  margin-left: 1em;
+}
+
+.flex-info {
+  display: flex;
+  width: 300px;
+  font-size:12px;
+  font-weight: normal;
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+.flex-contact {
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 1em;  
+}
+
+body {
+	font-family: Times;
+	font-family: Verdana;
+	background: beige;
+}
+
+progress {
+  appearance: none;
+  width: 200px;
+  height: 10px;
+  border-radius: 10px;
+  border: 1px solid #434343;
+}
+
+textarea {
+	resize: vertical;
+}
+
